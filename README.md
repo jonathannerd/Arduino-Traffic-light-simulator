@@ -1,0 +1,1 @@
+My Arduino traffic light simulator recreates a real intersection light cycle using LEDs. It automatically switches from green to yellow to red with realistic timing, and can include a pedestrian or button input to trigger a safe crossing sequence. The project demonstrates basic digital output control, timing logic, and state based sequencing on an Arduino.
